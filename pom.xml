@@ -85,7 +85,7 @@
 		<artifactId>tomcat7-maven-plugin</artifactId>
 		<version>2.2</version>
 		<configuration>
-			<url>http://localhost:8999</url>
+			<url>http://localhost:7070</url>
 			<server>localhost</server>
 			<warFile>target/account-1.0-SNAPSHOT.war</warFile>
 			<path>/helloWorld</path>
