@@ -87,12 +87,7 @@
 		<configuration>
 			<url>http://localhost:7070</url>
 			<server>localhost</server>
-			<warFile>target/account-1.0-SNAPSHOT.war</warFile>
-			<path>/helloWorld</path>
-			<contextReloadable>true</contextReloadable>
-			<username>admin</username>
-			<password>admin</password>
-			<update>true</update>
+			>
 		</configuration>
 	</plugin>
 	<plugin>
